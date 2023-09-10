@@ -1,5 +1,5 @@
 ﻿# redux-toolkit-Blog
-      Simple blog app using redux toolkit for managing post reactions.
+Simple blog app using redux toolkit for managing post reactions.
 
  [Live Demo](https://redux-toolkit-blog-kappa.vercel.app/)
 
